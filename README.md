@@ -1,4 +1,4 @@
-Place Friendly: An Application for Finding the Disability Friendly Environment
+Place Friendly: An Application for Finding the Disability Friendly Environment 
 
 (ตัวอย่างการพัฒนา Application บน iOS โดยใช้ Swift 3 และ Parse Framework เป็น Backend)
 
